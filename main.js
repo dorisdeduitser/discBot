@@ -134,7 +134,7 @@ else{
 message.channel.send(`game over!`);
 idols = require('./idols.json');
 return;}
-
+return;
 };
 
 spel(3,0);

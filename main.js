@@ -115,7 +115,7 @@ client.on('message', message => {
             
         }).catch(() => {
             lives--;
-            message.channel.send(`time's up!\nthe idol was ${idols[randomIdol].group} ${idols[randomIdol].name[0]} \lifes : ${lives}, points : ${punten}`);
+            message.channel.send(`time's up!\nthe idol was ${idols[randomIdol].group} ${idols[randomIdol].name[0]} \nlives : ${lives}, points : ${punten}`);
             for(let i = 0 ; i < idols.length ; i++){
                 if(idols[i] === idols[randomIdol]){
                     idols.splice(i,1);

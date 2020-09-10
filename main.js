@@ -128,11 +128,13 @@ client.on('message', message => {
         })
         ;
     });  
-}else if(idols.length == 0)
+}else if(idols.length == 0){
 message.channel.send(`you won! congratulations <:selener:748528684058542213>`);
+return;}
 
-else
+else{
 message.channel.send(`game over!`);
+return;}
 
 
 };

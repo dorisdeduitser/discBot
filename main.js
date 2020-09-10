@@ -105,7 +105,7 @@ client.on('message', message => {
         message.channel.awaitMessages(filter, {max : 1, time: 15000, errors: ['time']}).then(collected => {
             collected.first().react('✅');
             punten++;
-            message.channel.send(`correct! the idol was ${idols[randomIdol].group} ${idols[randomIdol].name[0]} \lifes : ${lives}, points : ${punten}`);
+            message.channel.send(`correct! the idol was ${idols[randomIdol].group} ${idols[randomIdol].name[0]} \nlives : ${lives}, points : ${punten}`);
             for(let i = 0 ; i < idols.length ; i++){
                 if(idols[i] === idols[randomIdol]){
                     idols.splice(i,1);

@@ -80,7 +80,7 @@ client.on('message', message => {
         .setImage(gifs[randomgetal]);
         message.channel.send(gifEmbed);
     }else if (command === 'game'){
-
+        
     
     
     let idols = require('./idols.json');
@@ -126,10 +126,12 @@ client.on('message', message => {
         })
         ;
     });  
-}else if(idols.length == 0)
+}else if(idols.length == 0){
 message.channel.send(`you won! congratulations <:selener:748528684058542213>`);
-else
+return;}
+else{
 message.channel.send(`game over!`);
+return;}
 
 };
 

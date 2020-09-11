@@ -97,7 +97,7 @@ client.on('message', message => {
              
             
         }else{
-        message.channel.send('incorrecrt parameters!'); return;}}
+        message.channel.send('incorrect parameters!'); return;}}
         
     
     let randomIdol;

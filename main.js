@@ -131,7 +131,7 @@ client.on('message', message => {
     return; 
 }else if(idols.length == 0){
 message.channel.send(`you won! congratulations <:selener:748528684058542213>`);
-return;}
+break;}
 
 else{
 message.channel.send(`game over!`);

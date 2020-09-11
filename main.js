@@ -97,7 +97,7 @@ client.on('message', message => {
     
     function spel (lives, punten) {
         
-        if(lives>0 && nodigeIdols.length>0){
+        
         randomIdol = Math.floor(Math.random()*nodigeIdols.length);
      randomFoto = Math.floor(Math.random()*nodigeIdols[randomIdol].pictures.length);
      
@@ -113,8 +113,13 @@ client.on('message', message => {
                 if(nodigeIdols[i] === nodigeIdols[randomIdol]){
                     nodigeIdols.splice(i,1);
                 }
-            }
+            }if(!nodigeIdols.length == 0 )
             spel(lives,punten);
+            else {
+                message.channel.send(`you won! congratulations <:selener:748528684058542213>`);
+                return;
+            }
+            
             
         }).catch(() => {
             lives--;
@@ -123,27 +128,18 @@ client.on('message', message => {
                 if(nodigeIdols[i] === nodigeIdols[randomIdol]){
                     nodigeIdols.splice(i,1);
                 }
-            }
+            }if(lives > 0)
             spel(lives,punten);
+            else{
+                message.channel.send(`game over!`);
+                return;
+            }
             
         })
         ;
     }); 
     return; 
-}else if(nodigeIdols.length === 0){
-message.channel.send(`you won! congratulations <:selener:748528684058542213>`).then(()=> {
-    nodigeIdols = idols;
 
-return;
-}
-    
-);
-}
-
-else{
-message.channel.send(`game over!`);
-
-return;}
 
 
 };

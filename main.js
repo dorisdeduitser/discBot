@@ -83,10 +83,9 @@ client.on('message', message => {
         .setImage(gifs[randomgetal]);
         message.channel.send(gifEmbed);
     }else if (command === 'game'){
-        if(nodigeIdols)
-        delete nodigeIdols;
+        
     
-    let nodigeIdols = [...idols];
+    let nodigeIdols;
     let randomIdol;
     let randomFoto;
     const filter = response => {
@@ -96,8 +95,7 @@ client.on('message', message => {
     };
     
     function spel (lives, punten) {
-
-        if(nodigeIdols.length==0)
+        if(!nodigeIdols)
         nodigeIdols = [...idols];
 
         randomIdol = Math.floor(Math.random()*nodigeIdols.length);

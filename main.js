@@ -84,16 +84,18 @@ client.on('message', message => {
         .setImage(gifs[randomgetal]);
         message.channel.send(gifEmbed);
     }else if (command === 'game'){
-        let idols;
+        let idols = JSON.parse(fs.readFileSync('idols.json', 'utf-8'));
         if(!args.length)
-         idols = JSON.parse(fs.readFileSync('idols.json', 'utf-8'));
+         return;
         else if(args[0].toLowerCase() === 'male'){
-             idols = JSON.parse(fs.readFileSync('idols.json', 'utf-8'));
+             
              idols = idols.filter(gender => gender == 'male');
+             
             
         }else if(args[0].toLowerCase() === 'female'){
-             idols = JSON.parse(fs.readFileSync('idols.json', 'utf-8'));
+             
              idols = idols.filter(gender => gender == 'female');
+             
             
         }else{
         message.channel.send('incorrecrt parameters!'); return;}

@@ -88,12 +88,15 @@ client.on('message', message => {
         if(!args.length)
          idols = JSON.parse(fs.readFileSync('idols.json', 'utf-8'));
         else if(args[0].toLowerCase() === 'male'){
-             idols = JSON.parse(fs.readFileSync('idols.json', 'utf-8')).filter(gender => gender == 'male');
+             idols = JSON.parse(fs.readFileSync('idols.json', 'utf-8'));
+             idols = idols.filter(gender => gender == 'male');
             
         }else if(args[0].toLowerCase() === 'female'){
-             idols = JSON.parse(fs.readFileSync('idols.json', 'utf-8')).filter(gender => gender == 'female');
+             idols = JSON.parse(fs.readFileSync('idols.json', 'utf-8'));
+             idols = idols.filter(gender => gender == 'female');
             
-        }
+        }else{
+        message.channel.send('incorrecrt parameters!'); return;}
         
     
     let randomIdol;

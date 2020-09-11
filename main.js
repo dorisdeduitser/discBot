@@ -147,10 +147,10 @@ client.on('message', message => {
 
 };
 
-spel(3,0);
-if(nodigeIdols.length == 0){
-message.channel.send(`thanks for playing`);
-return;}
+spel(3,0).then(()=> {essage.channel.send(`thanks for playing`);
+return;
+});
+
 
     
 

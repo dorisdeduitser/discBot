@@ -4,7 +4,7 @@ const client = new Discord.Client();
 
 const prefix = '&';
 
-let idols;
+let idols = require('./idols.json');
 
 client.once('ready', () => {
     console.log('jisung is online');
@@ -85,7 +85,7 @@ client.on('message', message => {
         
     
     
-    idols = require('./idols.json');
+    let nodigeIdols = idols;
     let randomIdol;
     let randomFoto;
     const filter = response => {
@@ -96,31 +96,31 @@ client.on('message', message => {
     
     function spel (lives, punten) {
         
-        if(lives>0 && idols.length>0){
-        randomIdol = Math.floor(Math.random()*idols.length);
-     randomFoto = Math.floor(Math.random()*idols[randomIdol].pictures.length);
+        if(lives>0 && nodigeIdols.length>0){
+        randomIdol = Math.floor(Math.random()*nodigeIdols.length);
+     randomFoto = Math.floor(Math.random()*nodigeIdols[randomIdol].pictures.length);
      
     
-    message.channel.send(idols[randomIdol].pictures[randomFoto])
+    message.channel.send(nodigeIdols[randomIdol].pictures[randomFoto])
     .then(() => {
         
         message.channel.awaitMessages(filter, {max : 1, time: 15000, errors: ['time']}).then(collected => {
             collected.first().react('✅');
             punten++;
-            message.channel.send(`correct! the idol was ${idols[randomIdol].group} ${idols[randomIdol].name[0]} \nlives : ${lives}, points : ${punten}`);
-            for(let i = 0 ; i < idols.length ; i++){
-                if(idols[i] === idols[randomIdol]){
-                    idols.splice(i,1);
+            message.channel.send(`correct! the idol was ${nodigeIdols[randomIdol].group} ${nodigeIdols[randomIdol].name[0]} \nlives : ${lives}, points : ${punten}`);
+            for(let i = 0 ; i < nodigeIdols.length ; i++){
+                if(nodigeIdols[i] === nodigeIdols[randomIdol]){
+                    nodigeIdols.splice(i,1);
                 }
             }
             spel(lives,punten);
             
         }).catch(() => {
             lives--;
-            message.channel.send(`time's up!\nthe idol was ${idols[randomIdol].group} ${idols[randomIdol].name[0]} \nlives : ${lives}, points : ${punten}`);
-            for(let i = 0 ; i < idols.length ; i++){
-                if(idols[i] === idols[randomIdol]){
-                    idols.splice(i,1);
+            message.channel.send(`time's up!\nthe idol was ${nodigeIdols[randomIdol].group} ${nodigeIdols[randomIdol].name[0]} \nlives : ${lives}, points : ${punten}`);
+            for(let i = 0 ; i < nodigeIdols.length ; i++){
+                if(nodigeIdols[i] === nodigeIdols[randomIdol]){
+                    nodigeIdols.splice(i,1);
                 }
             }
             spel(lives,punten);
@@ -129,9 +129,10 @@ client.on('message', message => {
         ;
     }); 
     return; 
-}else if(idols.length == 0){
+}else if(nodigeIdols.length === 0){
 message.channel.send(`you won! congratulations <:selener:748528684058542213>`);
-break;}
+
+return;}
 
 else{
 message.channel.send(`game over!`);
@@ -141,7 +142,7 @@ return;}
 };
 
 spel(3,0);
-idols = require('./idols.json');
+
 return;
 
     

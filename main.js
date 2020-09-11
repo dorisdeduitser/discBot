@@ -98,7 +98,7 @@ client.on('message', message => {
     function spel (lives, punten) {
 
         if(nodigeIdols.length==0)
-        nodigeIdols = idols;
+        nodigeIdols = [...idols];
 
         randomIdol = Math.floor(Math.random()*nodigeIdols.length);
      randomFoto = Math.floor(Math.random()*nodigeIdols[randomIdol].pictures.length);

@@ -85,9 +85,8 @@ client.on('message', message => {
         message.channel.send(gifEmbed);
     }else if (command === 'game'){
         let idols = JSON.parse(fs.readFileSync('idols.json', 'utf-8'));
-        if(!args.length)
-         return;
-        else if(args[0].toLowerCase() === 'male'){
+        
+        if(args[0].toLowerCase() === 'male'){
              
              idols = idols.filter(gender => gender == 'male');
              
@@ -97,7 +96,7 @@ client.on('message', message => {
              idols = idols.filter(gender => gender == 'female');
              
             
-        }else{
+        }else if(args.length){
         message.channel.send('incorrecrt parameters!'); return;}
         
     

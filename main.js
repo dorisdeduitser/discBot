@@ -88,12 +88,12 @@ client.on('message', message => {
         if(args.length){
         if(args[0] === 'male'){
              
-             idols = idols.filter(gender => gender == 'male');
+             idols = idols.filter(idol => idol.gender == 'male');
              
             
         }else if(args[0] === 'female'){
              
-             idols = idols.filter(gender => gender == 'female');
+             idols = idols.filter(idol => idol.gender == 'female');
              
             
         }else{

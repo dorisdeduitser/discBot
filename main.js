@@ -88,11 +88,11 @@ client.on('message', message => {
         if(!args.length)
          idols = JSON.parse(fs.readFileSync('idols.json', 'utf-8'));
         else if(args[0].toLowerCase() === 'male'){
-            let tempArray = JSON.parse(fs.readFileSync('idols.json', 'utf-8'));
-             idols = tempArray.filter(gender => gender == 'male');
+             idols = JSON.parse(fs.readFileSync('idols.json', 'utf-8')).filter(gender => gender == 'male');
+            
         }else if(args[0].toLowerCase() === 'female'){
-            let tempArray = JSON.parse(fs.readFileSync('idols.json', 'utf-8'));
-             idols = tempArray.filter(gender => gender == 'female');
+             idols = JSON.parse(fs.readFileSync('idols.json', 'utf-8')).filter(gender => gender == 'female');
+            
         }
         
     

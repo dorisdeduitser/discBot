@@ -4,7 +4,7 @@ const client = new Discord.Client();
 
 const prefix = '&';
 
-let idols = require('./idols.json');
+const idols = require('./idols.json');
 
 client.once('ready', () => {
     console.log('jisung is online');
@@ -131,11 +131,13 @@ client.on('message', message => {
     return; 
 }else if(nodigeIdols.length === 0){
 message.channel.send(`you won! congratulations <:selener:748528684058542213>`);
+delete nodigeIdols;
 
 return;}
 
 else{
 message.channel.send(`game over!`);
+delete nodigeIdols;
 return;}
 
 

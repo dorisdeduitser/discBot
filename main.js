@@ -84,9 +84,18 @@ client.on('message', message => {
         .setImage(gifs[randomgetal]);
         message.channel.send(gifEmbed);
     }else if (command === 'game'){
+        let idols;
+        if(!args.length)
+         idols = JSON.parse(fs.readFileSync('idols.json', 'utf-8'));
+        else if(args[0].toLowerCase() === 'male'){
+            let tempArray = JSON.parse(fs.readFileSync('idols.json', 'utf-8'));
+             idols = tempArray.filter(gender => gender == 'male');
+        }else if(args[0].toLowerCase() === 'female'){
+            let tempArray = JSON.parse(fs.readFileSync('idols.json', 'utf-8'));
+             idols = tempArray.filter(gender => gender == 'female');
+        }
         
     
-    let idols = JSON.parse(fs.readFileSync('idols.json', 'utf-8'));
     let randomIdol;
     let randomFoto;
     const filter = response => {

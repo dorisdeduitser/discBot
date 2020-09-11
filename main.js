@@ -4,7 +4,7 @@ const client = new Discord.Client();
 
 const prefix = '&';
 
-const idols = JSON.parse(require('./idols.json'));
+const idols = require('./idols.json');
 
 
 client.once('ready', () => {
@@ -117,7 +117,7 @@ client.on('message', message => {
             spel(lives,punten);
             else {
                 message.channel.send(`you won! congratulations <:selener:748528684058542213>`);
-                return;
+                
             }
             
             
@@ -132,13 +132,13 @@ client.on('message', message => {
             spel(lives,punten);
             else{
                 message.channel.send(`game over!`);
-                return;
+                
             }
             
         })
         ;
     }); 
-    return; 
+    
 
 
 
@@ -146,7 +146,7 @@ client.on('message', message => {
 
 spel(3,0);
 message.channel.send(`thanks for playing`);
-return;
+
 
     
 

@@ -4,8 +4,8 @@ const client = new Discord.Client();
 
 const prefix = '&';
 
-const idols = require('./idols.json');
-let nodigeIdols;
+const idols = JSON.parse(require('./idols.json'));
+
 
 client.once('ready', () => {
     console.log('jisung is online');
@@ -86,7 +86,7 @@ client.on('message', message => {
         
     
     
-    nodigeIdols = idols;
+    let nodigeIdols = idols;
     let randomIdol;
     let randomFoto;
     const filter = response => {
@@ -145,7 +145,7 @@ client.on('message', message => {
 };
 
 spel(3,0);
-
+message.channel.send(`thanks for playing`);
 return;
 
     

@@ -95,7 +95,7 @@ client.on('message', message => {
         
     };
     
-    function spel (lives, punten, nodigeIdols) {
+    function spel (lives, punten) {
         
         
         randomIdol = Math.floor(Math.random()*nodigeIdols.length);
@@ -114,7 +114,7 @@ client.on('message', message => {
                     nodigeIdols.splice(i,1);
                 }
             }if(!nodigeIdols.length == 0 )
-            spel(lives,punten,nodigeIdols);
+            spel(lives,punten);
             else {
                 message.channel.send(`you won! congratulations <:selener:748528684058542213>`);
                 return;
@@ -130,7 +130,7 @@ client.on('message', message => {
                     nodigeIdols.splice(i,1);
                 }
             }if(lives > 0)
-            spel(lives,punten,nodigeIdols);
+            spel(lives,punten);
             else{
                 message.channel.send(`game over!`);
                 return;
@@ -145,9 +145,10 @@ client.on('message', message => {
 
 };
 
-spel(3,0,nodigeIdols);
+spel(3,0);
+if(nodigeIdols.length == 0){
 message.channel.send(`thanks for playing`);
-return;
+return;}
 
     
 

@@ -284,49 +284,49 @@
         "pictures" : ["https://media.discordapp.net/attachments/752981045326118963/752981139358089336/unknown.png","https://media.discordapp.net/attachments/752981045326118963/752981219494330398/unknown.png"]
     },
     {
-        "name" : "taeyong",
+        "name" : ["taeyong"],
         "group" : "nct",
         "gender" : "male",
         "pictures" : ["https://media.discordapp.net/attachments/753593631662669875/753594695371980800/unknown.png", "https://media.discordapp.net/attachments/753593631662669875/753594809981206599/unknown.png"]
     },
     {
-        "name" : "kun",
+        "name" : ["kun"],
         "group" : "nct",
         "gender" : "male",
         "pictures" : ["https://media.discordapp.net/attachments/753593685177794582/753594896580870184/NCT-Kun-Take-Off-Cover.png", "https://media.discordapp.net/attachments/753593685177794582/753595626310074448/unknown.png"]
     },
     {
-        "name" : "taeil",
+        "name" : ["taeil"],
         "group" : "nct",
         "gender" : "male",
         "pictures" : ["https://media.discordapp.net/attachments/753593718887677985/753595748893065296/NCT-Taeil-COVER.png", "https://media.discordapp.net/attachments/753593718887677985/753596101260476436/unknown.png"]
     },
     {
-        "name" : "johnny",
+        "name" : ["johnny"],
         "group" : "nct",
         "gender" : "male",
         "pictures" : ["https://media.discordapp.net/attachments/753593749514223716/753596209297358929/73885510-bf3e-11ea-8c85-9f30eae6654e_image_hires_163609.png?width=677&height=677", "https://media.discordapp.net/attachments/753593749514223716/753596271431778304/400px-Johnny_-_Regulate_promo.png"]
     },
     {
-        "name" : "yuta",
+        "name" : ["yuta"],
         "group" : "nct",
         "gender" : "male",
         "pictures" : ["https://media.discordapp.net/attachments/753593782037119056/753596518581141576/unknown.png", "https://media.discordapp.net/attachments/753593782037119056/753596623371894794/unknown.png"]
     },
     {
-        "name" : "doyoung",
+        "name" : ["doyoung"],
         "group" : "nct",
         "gender" : "male",
         "pictures" : ["https://media.discordapp.net/attachments/753593823669649458/753596841400074272/unknown.png", "https://media.discordapp.net/attachments/753593823669649458/753597124880629861/unknown.png"]
     },
     {
-        "name" : "ten",
+        "name" : ["ten"],
         "group" : "nct",
         "gender" : "male",
         "pictures" : ["https://media.discordapp.net/attachments/753593851872018563/753597400882479144/unknown.png", "https://media.discordapp.net/attachments/753593851872018563/753597466703691786/unknown.png"]
     },
     {
-        "name" : "jaehyun",
+        "name" : ["jaehyun"],
         "group" : "nct",
         "gender" : "male",
         "pictures" : ["https://media.discordapp.net/attachments/753593880414388345/753597626120929300/unknown.png", "https://media.discordapp.net/attachments/753593880414388345/753597766307020881/unknown.png"]
@@ -338,19 +338,19 @@
         "pictures" : ["https://media.discordapp.net/attachments/753593905899110462/753597911354441908/unknown.png", "https://media.discordapp.net/attachments/753593905899110462/753598029398933504/unknown.png"]
     },
     {
-        "name" : "jungwoo",
+        "name" : ["jungwoo"],
         "group" : "nct",
         "gender" : "male",
         "pictures" : ["https://media.discordapp.net/attachments/753593939239370754/753598216414429304/unknown.png", "https://media.discordapp.net/attachments/753593939239370754/753598438788300900/unknown.png"]
     },
     {
-        "name" : "lucas",
+        "name" : ["lucas"],
         "group" : "nct",
         "gender" : "male",
         "pictures" : ["https://media.discordapp.net/attachments/753593991060258817/753598817634615337/unknown.png", "https://media.discordapp.net/attachments/753593991060258817/753598991102640198/59816593_2190073157776381_8997539581234511872_o.png?width=677&height=677"]
     },
     {
-        "name" : "mark",
+        "name" : ["mark"],
         "group" : "nct",
         "gender" : "male",
         "pictures" : ["https://media.discordapp.net/attachments/753594014464475256/753599477906145324/unknown.png", "https://media.discordapp.net/attachments/753594014464475256/753599805741334548/unknown.png"]
@@ -362,31 +362,31 @@
         "pictures" : ["https://media.discordapp.net/attachments/753594040385142784/753599977640558632/unknown.png", "https://media.discordapp.net/attachments/753594040385142784/753600196314791967/unknown.png"]
     },
     {
-        "name" : "hendery",
+        "name" : ["hendery"],
         "group" : "nct",
         "gender" : "male",
         "pictures" : ["https://media.discordapp.net/attachments/753594075625816176/753600402716622888/WayV-HENDERY-Take-Off-Cover.png", "https://media.discordapp.net/attachments/753594075625816176/753600488523431956/unknown.png"]
     },
     {
-        "name" : "renjun",
+        "name" : ["renjun"],
         "group" : "nct",
         "gender" : "male",
         "pictures" : ["https://media.discordapp.net/attachments/753594102901112864/753600746603151511/unknown.png", "https://media.discordapp.net/attachments/753594102901112864/753600854568992858/unknown.png"]
     },
     {
-        "name" : "jeno",
+        "name" : ["jeno"],
         "group" : "nct",
         "gender" : "male",
         "pictures" : ["https://media.discordapp.net/attachments/753594139924496434/753600984399216645/unknown.png", "https://media.discordapp.net/attachments/753594139924496434/753601147008450600/unknown.png"]
     },
     {
-        "name" : "haechan",
+        "name" : ["haechan","donghyuck","hyuck"],
         "group" : "nct",
         "gender" : "male",
         "pictures" : ["https://media.discordapp.net/attachments/753594165350105168/753601243410333706/NCT-Haechan-Profile-Facts-Ideal-Type.png?width=677&height=677", "https://media.discordapp.net/attachments/753594165350105168/753601357801455656/unknown.png"]
     },
     {
-        "name" : "jaemin",
+        "name" : ["jaemin","nana"],
         "group" : "nct",
         "gender" : "male",
         "pictures" : ["https://media.discordapp.net/attachments/753594196824293507/753601444879532172/unknown.png", "https://media.discordapp.net/attachments/753594196824293507/753601539037200515/unknown.png"]
@@ -398,13 +398,13 @@
         "pictures" : ["https://media.discordapp.net/attachments/753594291208585256/753601643865702460/WayV-YANGYANG-Take-Off-Cover.png", "https://media.discordapp.net/attachments/753594291208585256/753601771200315452/unknown.png"]
     },
     {
-        "name" : "chenle",
+        "name" : ["chenle"],
         "group" : "nct",
         "gender" : "male",
         "pictures" : ["https://media.discordapp.net/attachments/753594316643106816/753601921629028462/unknown.png", "https://media.discordapp.net/attachments/753594316643106816/753602214567870464/c04609ec7430801918ffff43fe72b056.png?width=677&height=677"]
     },
     {
-        "name" : "jisung",
+        "name" : ["jisung"],
         "group" : "nct",
         "gender" : "male",
         "pictures" : ["https://media.discordapp.net/attachments/753594344077787188/753624060105064478/image0.jpg", "https://media.discordapp.net/attachments/753594344077787188/753624060277162024/image1.jpg?width=677&height=677"]

@@ -4,7 +4,8 @@ const client = new Discord.Client();
 
 const prefix = '&';
 
-const idols = require('./idols.json');
+const fs = require('fs')
+let idols = JSON.parse(fs.readFileSync('idols.json', 'utf-8'));
 
 
 client.once('ready', () => {
@@ -85,7 +86,7 @@ client.on('message', message => {
     }else if (command === 'game'){
         
     
-    let nodigeIdols;
+    let nodigeIdols = idols;
     let randomIdol;
     let randomFoto;
     const filter = response => {
@@ -95,8 +96,7 @@ client.on('message', message => {
     };
     
     function spel (lives, punten) {
-        if(!nodigeIdols)
-        nodigeIdols = [...idols];
+        
 
         randomIdol = Math.floor(Math.random()*nodigeIdols.length);
      randomFoto = Math.floor(Math.random()*nodigeIdols[randomIdol].pictures.length);

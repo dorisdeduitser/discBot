@@ -5,6 +5,7 @@ const client = new Discord.Client();
 const prefix = '&';
 
 const idols = require('./idols.json');
+let nodigeIdols;
 
 client.once('ready', () => {
     console.log('jisung is online');
@@ -85,7 +86,7 @@ client.on('message', message => {
         
     
     
-    let nodigeIdols = idols;
+    nodigeIdols = idols;
     let randomIdol;
     let randomFoto;
     const filter = response => {
@@ -130,14 +131,18 @@ client.on('message', message => {
     }); 
     return; 
 }else if(nodigeIdols.length === 0){
-message.channel.send(`you won! congratulations <:selener:748528684058542213>`);
-delete nodigeIdols;
+message.channel.send(`you won! congratulations <:selener:748528684058542213>`).then(()=> {
+    nodigeIdols = idols;
 
-return;}
+return;
+}
+    
+);
+}
 
 else{
 message.channel.send(`game over!`);
-delete nodigeIdols;
+
 return;}
 
 

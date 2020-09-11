@@ -85,13 +85,13 @@ client.on('message', message => {
         message.channel.send(gifEmbed);
     }else if (command === 'game'){
         let idols = JSON.parse(fs.readFileSync('idols.json', 'utf-8'));
-        if(args){
-        if(args[0].toLowerCase() === 'male'){
+        if(args.length){
+        if(args[0] === 'male'){
              
              idols = idols.filter(gender => gender == 'male');
              
             
-        }else if(args[0].toLowerCase() === 'female'){
+        }else if(args[0] === 'female'){
              
              idols = idols.filter(gender => gender == 'female');
              

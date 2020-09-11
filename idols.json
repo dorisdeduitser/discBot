@@ -900,6 +900,48 @@
         "gender" : "female",
         "difficulty" : "easy",
         "pictures" : ["https://cdn.discordapp.com/attachments/754087160965234812/754087306465378324/unknown.png","https://cdn.discordapp.com/attachments/754087160965234812/754087178576855101/unknown.png"]
+    },
+    {
+        "name" : ["soyeon"],
+        "group" : "(g)i-dle",
+        "gender" : "female",
+        "difficulty" : "easy",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754107608994021396/754108246158999662/unknown.png","https://cdn.discordapp.com/attachments/754107608994021396/754108087052533760/unknown.png"]
+    },
+    {
+        "name" : ["miyeon"],
+        "group" : "(g)i-dle",
+        "gender" : "female",
+        "difficulty" : "easy",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754107687226048573/754108631267410010/164982d0a19e82d6581d952234bbf2851bfec329.png","https://cdn.discordapp.com/attachments/754107687226048573/754108557422493726/unknown.png"]
+    },
+    {
+        "name" : ["minnie","minhee"],
+        "group" : "(g)i-dle",
+        "gender" : "female",
+        "difficulty" : "easy",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754107726669283449/754108729103745064/51ab5d228a47fec5ab2b68c881003ae321864700r1-1200-1200v2_hq.png","https://cdn.discordapp.com/attachments/754107726669283449/754108847890759680/4695c91cbf071327dfb5e017110d1016.png"]
+    },
+    {
+        "name" : ["soojin","sujin"],
+        "group" : "(g)i-dle",
+        "gender" : "female",
+        "difficulty" : "easy",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754107768222253177/754109101709197342/unknown.png","https://cdn.discordapp.com/attachments/754107768222253177/754109011065831435/unknown.png"]
+    },
+    {
+        "name" : ["yuqi","woogi"],
+        "group" : "(g)i-dle",
+        "gender" : "female",
+        "difficulty" : "easy",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754107824581247106/754109477703254026/unknown.png","https://cdn.discordapp.com/attachments/754107824581247106/754109252804673626/DPWd_2OVBV0fK8slIFy6NrgNLZ39Kvvo9CEh7MQnHjXE2tWfyKAEES8Qk8lzoMsmV6C_7oeO4iHSM4Hckehz9YYIUU0nchDqeJJl.png"]
+    },
+    {
+        "name" : ["shuhua","suhwa"],
+        "group" : "(g)i-dle",
+        "gender" : "female",
+        "difficulty" : "easy",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754107877052121109/754109575900299344/unknown.png","https://cdn.discordapp.com/attachments/754107877052121109/754109811490291732/unknown.png"]
     }
 
 ]

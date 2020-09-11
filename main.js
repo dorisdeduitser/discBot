@@ -86,7 +86,7 @@ client.on('message', message => {
         
     
     
-    let nodigeIdols = idols;
+    let nodigeIdols;
     let randomIdol;
     let randomFoto;
     const filter = response => {
@@ -117,6 +117,7 @@ client.on('message', message => {
             spel(lives,punten);
             else {
                 message.channel.send(`you won! congratulations <:selener:748528684058542213>`);
+                return;
                 
             }
             
@@ -132,21 +133,21 @@ client.on('message', message => {
             spel(lives,punten);
             else{
                 message.channel.send(`game over!`);
-                
+                return;
             }
             
         })
         ;
     }); 
     
-
+    nodigeIdols = idols;
 
 
 };
 
 spel(3,0);
 message.channel.send(`thanks for playing`);
-
+return;
 
     
 

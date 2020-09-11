@@ -83,10 +83,10 @@ client.on('message', message => {
         .setImage(gifs[randomgetal]);
         message.channel.send(gifEmbed);
     }else if (command === 'game'){
-        
+        if(nodigeIdols)
+        delete nodigeIdols;
     
-    
-    let nodigeIdols = idols;
+    let nodigeIdols = [...idols];
     let randomIdol;
     let randomFoto;
     const filter = response => {
@@ -147,9 +147,7 @@ client.on('message', message => {
 
 };
 
-spel(3,0).then(()=> {essage.channel.send(`thanks for playing`);
-return;
-});
+spel(3,0);
 
 
     

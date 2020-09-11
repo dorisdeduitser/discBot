@@ -56,7 +56,7 @@ client.on('message', message => {
         .setColor('#f9c901')
         .setThumbnail('https://cdn.discordapp.com/attachments/702535108229333004/752666587407843418/unknown.png')
         .setTitle('commands this bot can do:')
-        .setDescription('&hey - answers you\n&stream - gives you a stray kids title track to stream\n&wave - waves for you\n&kiss - sends kiss\n&minsung - gives you an uwu gif\n&game - play a game! parameters: [gender]:(male/female) [diffivulty]:(easy/medium/hard)');
+        .setDescription('*hello command*\n```&hey``` - answers you\n*stream command*\n```&stream``` - gives you a stray kids title track to stream\n*wave command*\n```&wave``` - waves for you\n*kiss command*\n```&kiss``` - sends kiss\n*minsung command*\n```&minsung``` - gives you an uwu gif\n*game command*\n```&game``` - play a game! parameters: ```[gender]:(male/female)``` ```[diffivulty]:(easy/medium/hard)```');
         message.channel.send(helpEmbed);
     } else if (command === 'kiss'){
         const gifs = ['https://cdn.discordapp.com/attachments/702535108229333004/752859240619835414/hannie5.gif',

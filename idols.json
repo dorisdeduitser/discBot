@@ -52,7 +52,7 @@
         "group" : "stray kids",
         "gender" : "male",
         "difficulty" : "easy",
-        "pictures" : ["https://cdn.discordapp.com/attachments/752967362906554389/752968597931950292/bc.jpg","https://cdn.discordapp.com/attachments/752967362906554389/752968686117322802/ada623b0-5127-11ea-8948-c9a8d8f9b667_image_hires_103027.webp","https://cdn.discordapp.com/attachments/752967362906554389/754089619015991396/unknown.png"]
+        "pictures" : ["https://cdn.discordapp.com/attachments/752967362906554389/752968597931950292/bc.jpg","https://cdn.discordapp.com/attachments/752967362906554389/752968686117322802/ada623b0-5127-11ea-8948-c9a8d8f9b667_image_hires_103027.webp","https://cdn.discordapp.com/attachments/752967362906554389/754089619015991396/unknown.png","https://cdn.discordapp.com/attachments/752967362906554389/754091679601918012/Ehm3VX9WoAg9Vfz.png"]
     },
     {
         "name" : ["minho","lee know"],
@@ -73,14 +73,14 @@
         "group" : "stray kids",
         "gender" : "male",
         "difficulty" : "easy",
-        "pictures" : ["https://cdn.discordapp.com/attachments/752967473481121966/752969517964984351/original.png","https://cdn.discordapp.com/attachments/752967473481121966/752969651872465078/807ddcb93bf0e490e9f5b79f4a2eb9cb.png","https://cdn.discordapp.com/attachments/752967473481121966/754084129284554915/unknown.png","https://cdn.discordapp.com/attachments/752967473481121966/754084274239570030/unknown.png","https://cdn.discordapp.com/attachments/752967473481121966/754084614565396531/unknown.png","https://cdn.discordapp.com/attachments/752967473481121966/754084797030334505/unknown.png","https://cdn.discordapp.com/attachments/752967473481121966/754085144725553222/image0.jpg"]
+        "pictures" : ["https://cdn.discordapp.com/attachments/752967473481121966/752969517964984351/original.png","https://cdn.discordapp.com/attachments/752967473481121966/752969651872465078/807ddcb93bf0e490e9f5b79f4a2eb9cb.png","https://cdn.discordapp.com/attachments/752967473481121966/754084129284554915/unknown.png","https://cdn.discordapp.com/attachments/752967473481121966/754084274239570030/unknown.png","https://cdn.discordapp.com/attachments/752967473481121966/754084614565396531/unknown.png","https://cdn.discordapp.com/attachments/752967473481121966/754084797030334505/unknown.png","https://cdn.discordapp.com/attachments/752967473481121966/754085144725553222/image0.jpg","https://cdn.discordapp.com/attachments/752967473481121966/754093603994861661/unknown.png"]
     },
     {
         "name" : ["felix","yongbok"],
         "group" : "stray kids",
         "gender" : "male",
         "difficulty" : "easy",
-        "pictures" : ["https://cdn.discordapp.com/attachments/752967528422047915/752969896132083742/unknown.png","https://cdn.discordapp.com/attachments/752967528422047915/752970060649201734/unknown.png","https://cdn.discordapp.com/attachments/752967528422047915/754087585982185493/unknown.png"]
+        "pictures" : ["https://cdn.discordapp.com/attachments/752967528422047915/752969896132083742/unknown.png","https://cdn.discordapp.com/attachments/752967528422047915/752970060649201734/unknown.png","https://cdn.discordapp.com/attachments/752967528422047915/754087585982185493/unknown.png","https://cdn.discordapp.com/attachments/752967528422047915/754097443146170488/unknown.png"]
     },
     {
         "name" : ["seungmin"],
@@ -549,7 +549,7 @@
         "group" : "loona",
         "gender" : "female",
         "difficulty" : "medium",
-        "pictures" : ["https://cdn.discordapp.com/attachments/754055815052132514/754056226463285369/latest.png", "https://cdn.discordapp.com/attachments/754055815052132514/754056258914484354/original.png","https://cdn.discordapp.com/attachments/754055815052132514/754056456050966708/unknown.png"]
+        "pictures" : ["https://cdn.discordapp.com/attachments/754055815052132514/754056226463285369/latest.png", "https://cdn.discordapp.com/attachments/754055815052132514/754056258914484354/original.png","https://cdn.discordapp.com/attachments/754055815052132514/754056456050966708/unknown.png","https://cdn.discordapp.com/attachments/754055815052132514/754101898318970941/unknown.png","https://cdn.discordapp.com/attachments/754055815052132514/754102000932618320/unknown.png"]
     },
     {
         "name" : ["hyunjin"],
@@ -874,7 +874,7 @@
         "pictures" : ["https://cdn.discordapp.com/attachments/754080841289826545/754083334325534921/d5d569189ce215b2a34a4e1767657f0719e28ef8r1-1200-1200v2_hq.png", "https://cdn.discordapp.com/attachments/754080841289826545/754083178670719096/unknown.png"]
     },
     {
-        "name" : ["young k","brian"],
+        "name" : ["young k","youngk","brian"],
         "group" : "day6",
         "gender" : "male",
         "difficulty" : "easy",

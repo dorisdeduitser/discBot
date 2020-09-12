@@ -4,7 +4,9 @@ const client = new Discord.Client();
 
 const prefix = '&';
 
-const fs = require('fs')
+const fs = require('fs');
+
+let runningGame = false;
 
 
 
@@ -103,7 +105,8 @@ client.on('message', message => {
         message.channel.send(gifEmbed);
 
     }else if (command === 'game'){
-
+        if(!runningGame){
+            runningGame = true;
         let idols = JSON.parse(fs.readFileSync('idols.json', 'utf-8'));
 
         if(args.length){
@@ -267,6 +270,7 @@ client.on('message', message => {
             spel(lives,punten);
             else {
                 message.channel.send(`you won! congratulations <:selener:748528684058542213>`);
+                runningGame = false;
                 return;
                 
             }
@@ -283,6 +287,7 @@ client.on('message', message => {
             spel(lives,punten);
             else{
                 message.channel.send(`game over!`);
+                runningGame = false;
                 return;
                 }
             
@@ -292,7 +297,8 @@ client.on('message', message => {
     };
 
     spel(3,0);
-
+    }else
+    return;
 };
 
     

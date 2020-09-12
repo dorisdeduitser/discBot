@@ -117,6 +117,21 @@ client.on('message', message => {
              idols = idols.filter(idol => idol.gender == 'female');
              
             
+        }else if(args[0] === 'easy'){
+             
+            idols = idols.filter(idol => idol.difficulty == 'easy');
+            
+           
+       }else if(args[0] === 'medium'){
+             
+            idols = idols.filter(idol => idol.difficulty == 'medium');
+        
+       
+        }else if(args[0] === 'hard'){
+             
+            idols = idols.filter(idol => idol.difficulty == 'hard');
+    
+   
         }else{
         message.channel.send('incorrect parameters!'); return;}
         }

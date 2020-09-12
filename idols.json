@@ -1103,6 +1103,132 @@
         "gender" : "male",
         "difficulty" : "easy",
         "pictures" : ["https://cdn.discordapp.com/attachments/754442849201815654/754444661979873391/AB6IX-Daehwi-Cover.png","https://cdn.discordapp.com/attachments/754442849201815654/754444334341947402/97f0c988c24dcc6adf617fdd2f5aa99145e0f3d0r1-961-961v2_uhq.png"]
+    },
+    {
+        "name" : ["sangyeon"],
+        "group" : "the boyz",
+        "gender" : "male",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754446781147906068/754447105623588905/unknown.png","https://cdn.discordapp.com/attachments/754446781147906068/754446972210905154/unknown.png"]
+    },
+    {
+        "name" : ["jacob","joonyoung"],
+        "group" : "the boyz",
+        "gender" : "male",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754447153610620938/754447697905188864/unknown.png","https://cdn.discordapp.com/attachments/754447153610620938/754447372066619433/unknown.png"]
+    },
+    {
+        "name" : ["younghoon"],
+        "group" : "the boyz",
+        "gender" : "male",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754447756533432432/754448230292389959/unknown.png","https://cdn.discordapp.com/attachments/754447756533432432/754447941804097596/unknown.png"]
+    },
+    {
+        "name" : ["hyunjae","jaehyun"],
+        "group" : "the boyz",
+        "gender" : "male",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754448281568018544/754448767754829874/unknown.png","https://cdn.discordapp.com/attachments/754448281568018544/754448423566180452/unknown.png"]
+    },
+    {
+        "name" : ["juyeon"],
+        "group" : "the boyz",
+        "gender" : "male",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754448816064954519/754449224904474754/unknown.png","https://cdn.discordapp.com/attachments/754448816064954519/754449133791740045/unknown.png"]
+    },
+    {
+        "name" : ["kevin","hyungseo"],
+        "group" : "the boyz",
+        "gender" : "male",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754449366290268322/754450244724326522/MiaPgziL_400x400.png","https://cdn.discordapp.com/attachments/754449366290268322/754449651582894230/unknown.png"]
+    },
+    {
+        "name" : ["new","chanhee"],
+        "group" : "the boyz",
+        "gender" : "male",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754450359438540881/754450856275083304/unknown.png","https://cdn.discordapp.com/attachments/754450359438540881/754450766537949274/unknown.png"]
+    },
+    {
+        "name" : ["q","changmin"],
+        "group" : "the boyz",
+        "gender" : "easy",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754450896926015498/754451147124637736/unknown.png","https://cdn.discordapp.com/attachments/754450896926015498/754451061170897017/unknown.png"]
+    },
+    {
+        "name" : ["juhaknyeon"],
+        "group" : "the boyz",
+        "gender" : "male",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754451235033186365/754451551623577620/unknown.png","https://cdn.discordapp.com/attachments/754451235033186365/754451440583311450/unknown.png"]
+    },
+    {
+        "name" : ["sunwoo"],
+        "group" : "the boyz",
+        "gender" : "male",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754451607344644117/754452035172040764/unknown.png","https://cdn.discordapp.com/attachments/754451607344644117/754451765973352598/unknown.png"]
+    },
+    {
+        "name" : ["eric","youngjae"],
+        "group" : "the boyz",
+        "gender" : "male",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754452089543065701/754452508948299806/unknown.png","https://cdn.discordapp.com/attachments/754452089543065701/754452389309841439/unknown.png"]
+    },
+    {
+        "name" : ["hwall","hyunjoon"],
+        "group" : "the boyz",
+        "gender" : "male",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754452602770685993/754453100450021517/unknown.png","https://cdn.discordapp.com/attachments/754452602770685993/754452993104937041/unknown.png"]
+    },
+    {
+        "name" : ["yujeong"],
+        "group" : "laboum",
+        "gender" : "female",
+        "difficulty" : "hard",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754449119552209037/754458660637376635/unknown.png","https://cdn.discordapp.com/attachments/754449119552209037/754458069009694841/613d95b61362cb0e82ac8d712eb4fbad.png"]
+    },
+    {
+        "name" : ["soyeon"],
+        "group" : "laboum",
+        "gender" : "female",
+        "difficulty" : "hard",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754449144772427807/754457999124463736/unknown.png","https://cdn.discordapp.com/attachments/754449144772427807/754457857247674518/unknown.png"]
+    },
+    {
+        "name" : ["zn","jinye"],
+        "group" : "laboum",
+        "gender" : "female",
+        "difficulty" : "hard",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754449180734259291/754456208336748664/unknown.png","https://cdn.discordapp.com/attachments/754449180734259291/754454205749526618/unknown.png"]
+    },
+    {
+        "name" : ["haein"],
+        "group" : "laboum",
+        "gender" : "female",
+        "difficulty" : "hard",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754449188246257674/754458207602212934/unknown.png","https://cdn.discordapp.com/attachments/754449188246257674/754457328207659008/unknown.png"]
+    },
+    {
+        "name" : ["solbin"],
+        "group" : "laboum",
+        "gender" : "female",
+        "difficulty" : "hard",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754449212464169001/754453978179174450/unknown.png","https://cdn.discordapp.com/attachments/754449212464169001/754451334622740510/8d848131a768e07a5968a74a8b8232aa.png"]
+    },
+    {
+        "name" : ["yulhee"],
+        "group" : "laboum",
+        "gender" : "female",
+        "difficulty" : "hard",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754449263630483466/754451055751987280/unknown.png","https://cdn.discordapp.com/attachments/754449263630483466/754450394930872431/unknown.png"]
     }
 
 ]

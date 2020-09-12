@@ -119,12 +119,12 @@ client.on('message', message => {
                    
                }else if(args[1] === 'medium'){
                      
-                    idols = idols.filter(idol => idol.difficulty == 'medium');
+                    idols = [...idols.filter(idol => idol.difficulty == 'easy'),...idols.filter(idol => idol.difficulty == 'medium')];
                 
                
                 }else if(args[1] === 'hard'){
-                     
-                    idols = idols.filter(idol => idol.difficulty == 'hard');
+                    idols = [...idols.filter(idol => idol.difficulty == 'hard'),...idols.filter(idol => idol.difficulty == 'easy'),...idols.filter(idol => idol.difficulty == 'medium')];
+                    
             
            
                 }else{
@@ -144,12 +144,12 @@ client.on('message', message => {
                    
                }else if(args[1] === 'medium'){
                      
-                    idols = idols.filter(idol => idol.difficulty == 'medium');
+                idols = [...idols.filter(idol => idol.difficulty == 'easy'),...idols.filter(idol => idol.difficulty == 'medium')];
                 
                
                 }else if(args[1] === 'hard'){
                      
-                    idols = idols.filter(idol => idol.difficulty == 'hard');
+                    idols = [...idols.filter(idol => idol.difficulty == 'hard'),...idols.filter(idol => idol.difficulty == 'easy'),...idols.filter(idol => idol.difficulty == 'medium')];
             
            
                 }else{
@@ -188,7 +188,7 @@ client.on('message', message => {
             if(args[1]){
                 if(args[1] === 'male'){
              
-                    idols = idols.filter(idol => idol.gender == 'male');
+                    idols = [...idols.filter(idol => idol.difficulty == 'easy'),...idols.filter(idol => idol.difficulty == 'medium')];
                     
                    
                }else if(args[1] === 'female'){
@@ -207,7 +207,7 @@ client.on('message', message => {
        
         }else if(args[0] === 'hard'){
              
-            idols = idols.filter(idol => idol.difficulty == 'hard');
+            idols = [...idols.filter(idol => idol.difficulty == 'hard'),...idols.filter(idol => idol.difficulty == 'easy'),...idols.filter(idol => idol.difficulty == 'medium')];
 
             if(args[1]){
                 if(args[1] === 'male'){

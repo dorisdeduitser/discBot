@@ -1229,6 +1229,90 @@
         "gender" : "female",
         "difficulty" : "hard",
         "pictures" : ["https://cdn.discordapp.com/attachments/754449263630483466/754451055751987280/unknown.png","https://cdn.discordapp.com/attachments/754449263630483466/754450394930872431/unknown.png"]
+    },
+    {
+        "name" : ["chorong"],
+        "group" : "apink",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754459628468699186/754459853031866378/145376948701f79e6e97ddfafa6ad015.png","https://cdn.discordapp.com/attachments/754459628468699186/754459810799419513/83a879fbbb81bfa2e6298a782662e85f.png"]
+    },
+    {
+        "name" : ["bomi"],
+        "group" : "apink",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754459597938622535/754460008883683368/48cb5687b320133daeb0215b708edc43.png","https://cdn.discordapp.com/attachments/754459597938622535/754459941485543434/485b12ea8eea81ce3bcaed200e54461a.png"]
+    },
+    {
+        "name" : ["eunji","hyerim"],
+        "group" : "apink",
+        "gender" : "female",
+        "difficulty" : "easy",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754459564505694318/754460211917488148/unknown.png","https://cdn.discordapp.com/attachments/754459564505694318/754460081893933116/31b87aa02cf4eb8bd0bf7e8c49af7ed6.png"]
+    },
+    {
+        "name" : ["naeun"],
+        "group" : "apink",
+        "gender" : "female",
+        "difficulty" : "easy",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754459534143258717/754460619998101676/unknown.png","https://cdn.discordapp.com/attachments/754459534143258717/754460125154246816/2f183d7a4f6c1148c9857e16a278504f.png"]
+    },
+    {
+        "name" : ["namjoo"],
+        "group" : "apink",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754459496893644842/754460950106603701/unknown.png","https://cdn.discordapp.com/attachments/754459496893644842/754460797639589938/5a03c2039188b3c06f7bc72366c86a10.png"]
+    },
+    {
+        "name" : ["hayoung","oh hayoung"],
+        "group" : "apink",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754459452425371710/754461235906347028/4ffd321aeebd5c89b988f18f23800551.png","https://cdn.discordapp.com/attachments/754459452425371710/754461136648142918/cd346bb4a84816e1136eec76e42504d2.png"]
+    },
+    {
+        "name" : ["yookyung"],
+        "group" : "apink",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754459418338394212/754461525183430796/A-Pink-Yoo-Kyung-e1366699686818.png","https://cdn.discordapp.com/attachments/754459418338394212/754461397261484032/unknown.png"]
+    },
+    {
+        "name" : ["jr","jr.","jonghyun"],
+        "group" : "nu'est",
+        "gender" : "male",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754461898346332251/754462106937720882/unknown.png","https://cdn.discordapp.com/attachments/754461898346332251/754461911537418391/unknown.png"]
+    },
+    {
+        "name" : ["aron","aaron","youngmin"],
+        "group" : "nu'est",
+        "gender" : "male",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754462034715869254/754462532181164102/unknown.png","https://cdn.discordapp.com/attachments/754462034715869254/754462413679493242/unknown.png"]
+    },
+    {
+        "name" : ["baekho","dongho"],
+        "group" : "nu'est",
+        "gender" : "male",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754462583444078697/754462798834040902/unknown.png","https://cdn.discordapp.com/attachments/754462583444078697/754462703631990884/35b9a632410875e22d07436c7db5fffc.png"]
+    },
+    {
+        "name" : ["minhyun"],
+        "group" : "nu'est",
+        "gender" : "male",
+        "difficulty" : "easy",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754462852722458634/754463089717411950/e0536875b26302a761b39295b9e3addc.png","https://cdn.discordapp.com/attachments/754462852722458634/754462976353763358/unknown.png"]
+    },
+    {
+        "name" : ["ren","minki"],
+        "group" : "nu'est",
+        "gender" : "male",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754463144583233606/754463390222647376/unknown.png","https://cdn.discordapp.com/attachments/754463144583233606/754463318659301597/unknown.png"]
     }
 
 ]

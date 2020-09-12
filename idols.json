@@ -1019,6 +1019,90 @@
         "gender" : "male",
         "difficulty" : "easy",
         "pictures" : ["https://cdn.discordapp.com/attachments/754439459705061507/754441889276493856/unknown.png","https://cdn.discordapp.com/attachments/754439459705061507/754441724239151284/unknown.png"]
+    },
+    {
+        "name" : ["hyojung"],
+        "group" : "oh my girl",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754440625746608128/754448720845733978/e7208109bb9394fb2e5f9e03f47f2df7.png","https://cdn.discordapp.com/attachments/754440625746608128/754448603879178324/813389932bf8e643bc9071f19ea7907c.png"]
+    },
+    {
+        "name" : ["mimi","mihyun"],
+        "group" : "oh my girl",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754440585598861436/754448884838826116/unknown.png","https://cdn.discordapp.com/attachments/754440585598861436/754447715664134144/unknown.png"]
+    },
+    {
+        "name" : ["yooa"],
+        "group" : "oh my girl",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754440546444902470/754448290527051838/unknown.png","https://cdn.discordapp.com/attachments/754440546444902470/754447410503352400/unknown.png","https://cdn.discordapp.com/attachments/754440546444902470/754447244039684186/unknown.png"]
+    },
+    {
+        "name" : ["seunghee"],
+        "group" : "oh my girl",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754440509463986288/754447011477979218/unknown.png","https://cdn.discordapp.com/attachments/754440509463986288/754446599286947981/unknown.png"]
+    },
+    {
+        "name" : ["jiho"],
+        "group" : "oh my girl",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754440471622844496/754446417325457408/unknown.png","https://cdn.discordapp.com/attachments/754440471622844496/754446038420553728/unknown.png"]
+    },
+    {
+        "name" : ["binnie","yubin"],
+        "group" : "oh my girl",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754440420678697020/754445440224722954/unknown.png","https://cdn.discordapp.com/attachments/754440420678697020/754445316975231066/unknown.png"]
+    },
+    {
+        "name" : ["arin","yewon"],
+        "group" : "oh my girl",
+        "gender" : "female",
+        "difficulty" : "easy",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754440383403917464/754443010292449280/unknown.png","https://cdn.discordapp.com/attachments/754440383403917464/754442679714185309/unknown.png"]
+    },
+    {
+        "name" : ["jine","hyejin"],
+        "group" : "oh my girl",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754449358992310362/754449810379112448/unknown.png","https://cdn.discordapp.com/attachments/754449358992310362/754449691277787207/unknown.png"]
+    },
+    {
+        "name" : ["woong"],
+        "group" : "ab6ix",
+        "gender" : "male",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754442669664501791/754443369098248343/tian-woong-ab6ix-woong-vivid-photo.png","https://cdn.discordapp.com/attachments/754442669664501791/754443267533308084/unknown.png"]
+    },
+    {
+        "name" : ["donghyun","dongxian"],
+        "group" : "ab6ix",
+        "gender" : "male",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754442730347954341/754443818622910564/unknown.png","https://cdn.discordapp.com/attachments/754442730347954341/754443571087671317/unknown.png"]
+    },
+    {
+        "name" : ["woojin"],
+        "group" : "ab6ix",
+        "gender" : "male",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754442787369255009/754444241178198096/2Q.png","https://cdn.discordapp.com/attachments/754442787369255009/754444149549432974/unknown.png"]
+    },
+    {
+        "name" : ["daehwi"],
+        "group" : "ab6ix",
+        "gender" : "male",
+        "difficulty" : "easy",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754442849201815654/754444661979873391/AB6IX-Daehwi-Cover.png","https://cdn.discordapp.com/attachments/754442849201815654/754444334341947402/97f0c988c24dcc6adf617fdd2f5aa99145e0f3d0r1-961-961v2_uhq.png"]
     }
 
 ]

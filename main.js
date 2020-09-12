@@ -110,26 +110,123 @@ client.on('message', message => {
         if(args[0] === 'male'){
              
              idols = idols.filter(idol => idol.gender == 'male');
+
+            if(args[1]){
+                if(args[1] === 'easy'){
+             
+                    idols = idols.filter(idol => idol.difficulty == 'easy');
+                    
+                   
+               }else if(args[1] === 'medium'){
+                     
+                    idols = idols.filter(idol => idol.difficulty == 'medium');
+                
+               
+                }else if(args[1] === 'hard'){
+                     
+                    idols = idols.filter(idol => idol.difficulty == 'hard');
+            
+           
+                }else{
+                    message.channel.send('incorrect parameters!'); return;}
+             }
              
             
         }else if(args[0] === 'female'){
              
              idols = idols.filter(idol => idol.gender == 'female');
+
+             if(args[1]){
+                if(args[1] === 'easy'){
+             
+                    idols = idols.filter(idol => idol.difficulty == 'easy');
+                    
+                   
+               }else if(args[1] === 'medium'){
+                     
+                    idols = idols.filter(idol => idol.difficulty == 'medium');
+                
+               
+                }else if(args[1] === 'hard'){
+                     
+                    idols = idols.filter(idol => idol.difficulty == 'hard');
+            
+           
+                }else{
+                    message.channel.send('incorrect parameters!'); return;}
+             }
              
             
         }else if(args[0] === 'easy'){
              
             idols = idols.filter(idol => idol.difficulty == 'easy');
+
+            if(args[1]){
+                if(args[1] === 'male'){
+             
+                    idols = idols.filter(idol => idol.gender == 'male');
+                    
+                   
+               }else if(args[1] === 'female'){
+                     
+                    idols = idols.filter(idol => idol.difficulty == 'female');
+                
+               
+                }else {
+                     
+                    message.channel.send('incorrect parameters!'); return;
+            
+           
+                }
+             }
             
            
        }else if(args[0] === 'medium'){
              
             idols = idols.filter(idol => idol.difficulty == 'medium');
+
+            if(args[1]){
+                if(args[1] === 'male'){
+             
+                    idols = idols.filter(idol => idol.gender == 'male');
+                    
+                   
+               }else if(args[1] === 'female'){
+                     
+                    idols = idols.filter(idol => idol.difficulty == 'female');
+                
+               
+                }else {
+                     
+                    message.channel.send('incorrect parameters!'); return;
+            
+           
+                }
+             }
         
        
         }else if(args[0] === 'hard'){
              
             idols = idols.filter(idol => idol.difficulty == 'hard');
+
+            if(args[1]){
+                if(args[1] === 'male'){
+             
+                    idols = idols.filter(idol => idol.gender == 'male');
+                    
+                   
+               }else if(args[1] === 'female'){
+                     
+                    idols = idols.filter(idol => idol.difficulty == 'female');
+                
+               
+                }else {
+                     
+                    message.channel.send('incorrect parameters!'); return;
+            
+           
+                }
+             }
     
    
         }else{

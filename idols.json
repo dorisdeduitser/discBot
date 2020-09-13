@@ -150,63 +150,63 @@
         "group" : "twice",
         "gender" : "female",
         "difficulty" : "easy",
-        "pictures" : ["https://media.discordapp.net/attachments/752967112934555738/752967946393092209/unknown.png","https://media.discordapp.net/attachments/752967112934555738/752968250421280825/unknown.png"]
+        "pictures" : ["https://media.discordapp.net/attachments/752967112934555738/752967946393092209/unknown.png","https://media.discordapp.net/attachments/752967112934555738/752968250421280825/unknown.png", "https://media.discordapp.net/attachments/752967112934555738/754678304325369966/unknown.png","https://media.discordapp.net/attachments/752967112934555738/754678550061252690/unknown.png", "https://media.discordapp.net/attachments/752967112934555738/754678683163295804/unknown.png", "https://media.discordapp.net/attachments/752967112934555738/754679110768263268/unknown.png","https://media.discordapp.net/attachments/752967112934555738/754679425697579068/unknown.png"]
     },
     {
         "name" : ["jeongyeon"],
         "group" : "twice",
         "gender" : "female",
         "difficulty" : "easy",
-        "pictures" : ["https://media.discordapp.net/attachments/752967138704359445/752968792769822870/unknown.png","https://media.discordapp.net/attachments/752967138704359445/752968955945287741/Jeongyeon-twice-jyp-ent-42964763-750-747.png?width=680&height=677"]
+        "pictures" : ["https://media.discordapp.net/attachments/752967138704359445/752968792769822870/unknown.png","https://media.discordapp.net/attachments/752967138704359445/752968955945287741/Jeongyeon-twice-jyp-ent-42964763-750-747.png?width=680&height=677","https://media.discordapp.net/attachments/752967138704359445/754680630117138532/unknown.png", "https://media.discordapp.net/attachments/752967138704359445/754680751789834340/twice-more-and-more-jeongyeon-uhdpaper.png","https://media.discordapp.net/attachments/752967138704359445/754681747160956968/unknown.png", "https://media.discordapp.net/attachments/752967138704359445/754682584851677265/sEHFGfhf.png", "https://media.discordapp.net/attachments/752967138704359445/754682746231717929/unknown.png"]
     },
     {
         "name" : ["momo"],
         "group" : "twice",
         "gender" : "female",
         "difficulty" : "easy",
-        "pictures" : ["https://media.discordapp.net/attachments/752967153690476637/752969091425501184/unknown.png","https://media.discordapp.net/attachments/752967153690476637/752969294521827490/46cb6fa6194914e2017be037cc18255edab6832er1-732-755v2_uhq.png?width=656&height=677"]
+        "pictures" : ["https://media.discordapp.net/attachments/752967153690476637/752969091425501184/unknown.png","https://media.discordapp.net/attachments/752967153690476637/752969294521827490/46cb6fa6194914e2017be037cc18255edab6832er1-732-755v2_uhq.png?width=656&height=677","https://media.discordapp.net/attachments/752967153690476637/754683816878276698/unknown.png", "https://media.discordapp.net/attachments/752967153690476637/754684014329200740/unknown.png", "https://media.discordapp.net/attachments/752967153690476637/754684179035455608/unknown.png","https://media.discordapp.net/attachments/752967153690476637/754684313945243728/unknown.png?width=675&height=677", "https://media.discordapp.net/attachments/752967153690476637/754684454299238408/unknown.png?width=676&height=677"]
     },
     {
         "name" : ["sana"],
         "group" : "twice",
         "gender" : "female",
         "difficulty" : "easy",
-        "pictures" : ["https://media.discordapp.net/attachments/752967174288834740/752969461505720470/unknown.png","https://media.discordapp.net/attachments/752967174288834740/752969679500345364/unknown.png"]
+        "pictures" : ["https://media.discordapp.net/attachments/752967174288834740/752969461505720470/unknown.png","https://media.discordapp.net/attachments/752967174288834740/752969679500345364/unknown.png", "https://media.discordapp.net/attachments/752967174288834740/754684870185189406/8577f98c76d6c082ca4f33460e337b38.png?width=678&height=677","https://media.discordapp.net/attachments/752967174288834740/754685267503218728/unknown.png", "https://media.discordapp.net/attachments/752967174288834740/754685361275404358/unknown.png", "https://media.discordapp.net/attachments/752967174288834740/754685516250742844/unknown.png","https://media.discordapp.net/attachments/752967174288834740/754685793616003162/unknown.png"]
     },
     {
         "name" : ["jihyo"],
         "group" : "twice",
         "gender" : "female",
         "difficulty" : "easy",
-        "pictures" : ["https://media.discordapp.net/attachments/752967191162257448/752969815941185556/unknown.png","https://media.discordapp.net/attachments/752967191162257448/752969947713372191/a3326b027d4988198ecf6d450fd5b864.png?width=677&height=677"]
+        "pictures" : ["https://media.discordapp.net/attachments/752967191162257448/752969815941185556/unknown.png","https://media.discordapp.net/attachments/752967191162257448/752969947713372191/a3326b027d4988198ecf6d450fd5b864.png?width=677&height=677","https://media.discordapp.net/attachments/752967191162257448/754686307132899438/72813705_483169108944358_761475599679094784_o.png?width=677&height=677", "https://media.discordapp.net/attachments/752967191162257448/754686561446002738/053c696207d9ad182e8a08725066da73.png?width=685&height=677","https://media.discordapp.net/attachments/752967191162257448/754686726018039848/unknown.png", "https://media.discordapp.net/attachments/752967191162257448/754686866858442812/EzLO_xjP_400x400.png", "https://media.discordapp.net/attachments/752967191162257448/754687004016509039/unknown.png","https://media.discordapp.net/attachments/752967191162257448/754687306606313512/unknown.png"]
     },
     {
         "name" : ["mina"],
         "group" : "twice",
         "gender" : "female",
         "difficulty" : "easy",
-        "pictures" : ["https://media.discordapp.net/attachments/752967228801941555/752970157315326012/unknown.png","https://media.discordapp.net/attachments/752967228801941555/752970355978666064/unknown.png"]
+        "pictures" : ["https://media.discordapp.net/attachments/752967228801941555/752970157315326012/unknown.png","https://media.discordapp.net/attachments/752967228801941555/752970355978666064/unknown.png", "https://media.discordapp.net/attachments/752967228801941555/754688476720529423/unknown.png","https://media.discordapp.net/attachments/752967228801941555/754688701690282044/unknown.png", "https://media.discordapp.net/attachments/752967228801941555/754688819701350460/unknown.png", "https://media.discordapp.net/attachments/752967228801941555/754689054985158656/unknown.png","https://media.discordapp.net/attachments/752967228801941555/754689191002112100/unknown.png"]
     },
     {
-        "name" : ["dahyun","dubu"],
+        "name" : ["dahyun"],
         "group" : "twice",
         "gender" : "female",
         "difficulty" : "easy",
-        "pictures" : ["https://media.discordapp.net/attachments/752967254815015003/752970530914697257/unknown.png","https://media.discordapp.net/attachments/752967254815015003/752970615266476132/unknown.png", "https://media.discordapp.net/attachments/752967254815015003/753006683835596837/unknown.png","https://media.discordapp.net/attachments/752967254815015003/753007682239201330/unknown.png", "https://media.discordapp.net/attachments/752967254815015003/753008029896540303/unknown.png", "https://media.discordapp.net/attachments/752967254815015003/753008130056781925/unknown.png","https://media.discordapp.net/attachments/752967254815015003/753009029726601276/unknown.png", "https://media.discordapp.net/attachments/752967254815015003/753009162417602670/unknown.png"]
+        "pictures" : ["https://media.discordapp.net/attachments/752967254815015003/752970530914697257/unknown.png","https://media.discordapp.net/attachments/752967254815015003/752970615266476132/unknown.png", "https://media.discordapp.net/attachments/752967254815015003/753006683835596837/unknown.png","https://media.discordapp.net/attachments/752967254815015003/753007682239201330/unknown.png", "https://media.discordapp.net/attachments/752967254815015003/753008029896540303/unknown.png", "https://media.discordapp.net/attachments/752967254815015003/753008130056781925/unknown.png","https://media.discordapp.net/attachments/752967254815015003/753009029726601276/unknown.png", "https://media.discordapp.net/attachments/752967254815015003/753009162417602670/unknown.png", "https://media.discordapp.net/attachments/752967254815015003/754675261521526804/unknown.png","https://media.discordapp.net/attachments/752967254815015003/754675704641355856/unknown.png", "https://media.discordapp.net/attachments/752967254815015003/754675903769870406/unknown.png", "https://media.discordapp.net/attachments/752967254815015003/754676289440579634/unknown.png","https://media.discordapp.net/attachments/752967254815015003/754676289440579634/unknown.png", "https://media.discordapp.net/attachments/752967254815015003/754690803728777236/unknown.png", "https://media.discordapp.net/attachments/752967254815015003/754690934804971671/unknown.png","https://media.discordapp.net/attachments/752967254815015003/754691196898770984/unknown.png"]
     },
     {
         "name" : ["chaeyoung"],
         "group" : "twice",
         "gender" : "female",
         "difficulty" : "easy",
-        "pictures" : ["https://media.discordapp.net/attachments/752967274918445122/752970737832427632/1570447144-egprktsxyaazpzl.png?width=685&height=677","https://media.discordapp.net/attachments/752967274918445122/752970837795012699/unknown.png"]
+        "pictures" : ["https://media.discordapp.net/attachments/752967274918445122/752970737832427632/1570447144-egprktsxyaazpzl.png?width=685&height=677","https://media.discordapp.net/attachments/752967274918445122/752970837795012699/unknown.png", "https://media.discordapp.net/attachments/752967274918445122/754691732372717633/unknown.png","https://media.discordapp.net/attachments/752967274918445122/754691835619967016/unknown.png", "https://media.discordapp.net/attachments/752967274918445122/754693080786927686/unknown.png", "https://media.discordapp.net/attachments/752967274918445122/754693525894987796/unknown.png","https://media.discordapp.net/attachments/752967274918445122/754694131879510117/unknown.png"]
     },
     {
         "name" : ["tzuyu"],
         "group" : "twice",
         "gender" : "female",
         "difficulty" : "easy",
-        "pictures" : ["https://media.discordapp.net/attachments/752967297869676684/752970976165232670/unknown.png","https://media.discordapp.net/attachments/752967297869676684/752971053734690826/unknown.png"]
+        "pictures" : ["https://media.discordapp.net/attachments/752967297869676684/752970976165232670/unknown.png","https://media.discordapp.net/attachments/752967297869676684/752971053734690826/unknown.png", "https://media.discordapp.net/attachments/752967297869676684/754694613104852992/unknown.png","https://media.discordapp.net/attachments/752967297869676684/754694740640923769/unknown.png", "https://media.discordapp.net/attachments/752967297869676684/754694846479859822/unknown.png", "https://media.discordapp.net/attachments/752967297869676684/754695050239279114/unknown.png","https://media.discordapp.net/attachments/752967297869676684/754700070129106974/unknown.png", "https://media.discordapp.net/attachments/752967297869676684/754700189213917294/unknown.png"]
     },
     {
         "name" : ["irene","joo-hyun","joohyun"],

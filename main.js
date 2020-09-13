@@ -274,13 +274,19 @@ client.on('message', message => {
         randomIdol = Math.floor(Math.random()*idols.length);
         randomFoto = Math.floor(Math.random()*idols[randomIdol].pictures.length);
      
-    
-        message.channel.send(idols[randomIdol].pictures[randomFoto])
+        const gifEmbed = new Discord.MessageEmbed()
+            .setColor('#f9c901')
+            .setTitle('who is this?')
+            .setImage(idols[randomIdol].pictures[randomFoto]);
+        message.channel.send(gifEmbed)
+        /*message.channel.send(idols[randomIdol].pictures[randomFoto])*/
         .then(() => {
         
             message.channel.awaitMessages(filter, {max : 1, time: 15000, errors: ['time']}).then(collected => {
             collected.first().react('✅');
             punten++;
+            
+
             message.channel.send(`correct! the idol was ${idols[randomIdol].group} ${idols[randomIdol].name[0]} \nlives : ${lives}, points : ${punten}`);
             for(let i = 0 ; i < idols.length ; i++){
                 if(idols[i] === idols[randomIdol]){

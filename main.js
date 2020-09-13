@@ -71,12 +71,12 @@ client.on('message', message => {
 
     }else if (command === 'picture'){
         let randomFoto;
-        if(!args.length)
+        if(!args.length){
         message.channel.send('usage: ```&picture [idol]```');
-    
-        if(args[1])
+        }else{
+        if(args[1]){
         message.channel.send('too many arguments. usage: ```&picture [idol]```');
-    
+        }else{
         let idols = JSON.parse(fs.readFileSync('idols.json', 'utf-8'));
         idols = idols.filter(idol => idol.name === args[0].toLowerCase())
     
@@ -84,8 +84,9 @@ client.on('message', message => {
         for(let idol of idols){
             randomFoto = Math.floor(Math.random()*idol.pictures.length);
             message.channel.send(idol.pictures[randomFoto]);
-        }}else
-        message.channel.send('idol not found in our database');
+        }
+        }else
+        message.channel.send('idol not found in our database');}}
     
     
     } else if (command === 'kiss'){

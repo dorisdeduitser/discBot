@@ -1404,6 +1404,97 @@
         "gender" : "male",
         "difficulty" : "medium",
         "pictures" : ["https://cdn.discordapp.com/attachments/754476342115958985/754480823113220096/original.png","https://cdn.discordapp.com/attachments/754476342115958985/754480681236561970/unknown.png"]
+    },
+    {
+        "name" : ["shownu","hyunwoo"],
+        "group" : "monsta x",
+        "gender" : "male",
+        "difficulty" : "easy",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754639687766900817/754640797625745468/unknown.png","https://cdn.discordapp.com/attachments/754639687766900817/754640669267460146/unknown.png"]
+    },
+    {
+        "name" : ["minhyuk"],
+        "group" : "monsta x",
+        "gender" : "male",
+        "difficulty" : "easy",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754639735200284742/754641142829678672/unknown.png","https://cdn.discordapp.com/attachments/754639735200284742/754640941691830312/unknown.png"]
+    },
+    {
+        "name" : ["kihyun"],
+        "group" : "monsta x",
+        "gender" : "male",
+        "difficulty" : "easy",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754639782872875078/754641472904495174/unknown.png","https://cdn.discordapp.com/attachments/754639782872875078/754641312396869733/unknown.png"]
+    },
+    {
+        "name" : ["hyungwon"],
+        "group" : "monsta x",
+        "gender" : "male",
+        "difficulty" : "easy",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754639835758854175/754641792741277736/unknown.png","https://cdn.discordapp.com/attachments/754639835758854175/754641656627593226/unknown.png"]
+    },
+    {
+        "name" : ["joohoney","jooheon"],
+        "group" : "monsta x",
+        "gender" : "male",
+        "difficulty" : "easy",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754639909238734949/754642666620190770/unknown.png","https://cdn.discordapp.com/attachments/754639909238734949/754641984127369296/unknown.png"]
+    },
+    {
+        "name" : ["i.m","im","changkyun"],
+        "group" : "monsta x",
+        "gender" : "male",
+        "difficulty" : "easy",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754639957209120768/754643269475893350/unknown.png","https://cdn.discordapp.com/attachments/754639957209120768/754643151016165426/unknown.png"]
+    },
+    {
+        "name" : ["wonho","hoseok"],
+        "group" : "monsta x",
+        "gender" : "male",
+        "difficulty" : "easy",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754640002415198259/754643453924605962/ba24cd4a-feab-11e9-93ee-a5388fc1b87d_image_hires_043555.png","https://cdn.discordapp.com/attachments/754640002415198259/754643393073643581/unknown.png"]
+    },
+    {
+        "name" : ["e:u","eu","jiwon","park jiwon"],
+        "group" : "everglow",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754646833564876850/754647910242844692/4f90ba20f958aab7efbbbaff0b47e5468dd2d4b3.png","https://cdn.discordapp.com/attachments/754646833564876850/754647587801530418/unknown.png"]
+    },
+    {
+        "name" : ["sihyeon"],
+        "group" : "everglow",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754646987651154010/754648304402432100/unknown.png","https://cdn.discordapp.com/attachments/754646987651154010/754648092686680174/unknown.png"]
+    },
+    {
+        "name" : ["mia","eunji"],
+        "group" : "everglow",
+        "gender" : "female",
+        "difficulty" : "easy",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754647050418651287/754648732481486848/main-qimg-480a0da7a5ea151d7bcdc449117e37d9.png","https://cdn.discordapp.com/attachments/754647050418651287/754648652567281724/unknown.png"]
+    },
+    {
+        "name" : ["onda","serim"],
+        "group" : "everglow",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754647127770136576/754649395756007444/unknown.png","https://cdn.discordapp.com/attachments/754647127770136576/754648983204528229/unknown.png"]
+    },
+    {
+        "name" : ["aisha","yoorim"],
+        "group" : "everglow",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754647186926600274/754649697590706266/unknown.png","https://cdn.discordapp.com/attachments/754647186926600274/754649505366016071/1d8099caee8545ade97798616a1aaa77.png"]
+    },
+    {
+        "name" : ["yiren"],
+        "group" : "everglow",
+        "gender" : "female",
+        "difficulty" : "easy",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754647254631186443/754650124520783913/unknown.png","https://cdn.discordapp.com/attachments/754647254631186443/754650004534198312/Xt_AXfJtob7C3hjg3pQ-TWCtKtyRfSr4X9fF7Su8oqI.png"]
     }
 
 ]

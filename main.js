@@ -78,7 +78,7 @@ client.on('message', message => {
         message.channel.send('too many arguments. usage: ```&picture [idol]```');
         }else{
         let idols = JSON.parse(fs.readFileSync('idols.json', 'utf-8'));
-        idols = idols.filter(idol => idol.name === args[0].toLowerCase())
+        idols = idols.filter(idol => idol.name.includes(args[0].toLowerCase()));
     
         if(idols.length){
         for(let idol of idols){

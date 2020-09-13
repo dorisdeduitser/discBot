@@ -69,6 +69,25 @@ client.on('message', message => {
 
         message.channel.send(helpEmbed);
 
+    }else if (command === 'picture'){
+        let randomFoto;
+        if(!args.length)
+        message.channel.send('usage: ```&picture [idol]```');
+    
+        if(args[1])
+        message.channel.send('too many arguments. usage: ```&picture [idol]```');
+    
+        let idols = JSON.parse(fs.readFileSync('idols.json', 'utf-8'));
+        idols = idols.filter(idol => idol.name === args[0].toLowerCase)
+    
+        if(idols.length){
+        for(let idol of idols){
+            randomFoto = Math.floor(Math.random()*idol.pictures.length);
+            message.channel.send(idol.pictures[randomFoto]);
+        }}else
+        message.channel.send('idol not found in our database');
+    
+    
     } else if (command === 'kiss'){
 
         const gifs = ['https://cdn.discordapp.com/attachments/702535108229333004/752859240619835414/hannie5.gif',
@@ -299,25 +318,6 @@ client.on('message', message => {
     spel(3,0);
     }else
     return;
-}else if (command === 'picture'){
-    let randomFoto;
-    if(!args.length)
-    message.channel.send('usage: ```&picture [idol]```');
-
-    if(args[1])
-    message.channel.send('too many arguments. usage: ```&picture [idol]```');
-
-    let idols = JSON.parse(fs.readFileSync('idols.json', 'utf-8'));
-    idols = idols.filter(idol => idol.name === args[0].toLowerCase)
-
-    if(idols.length){
-    for(let idol of idols){
-        randomFoto = Math.floor(Math.random()*idol.pictures.length);
-        message.channel.send(idol.pictures[randomFoto]);
-    }}else
-    message.channel.send('idol not found in our database');
-
-
 }
 
     

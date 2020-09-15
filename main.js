@@ -279,7 +279,7 @@ client.on('message', message => {
             .setTitle('who is this?')
             .setImage(idols[randomIdol].pictures[randomFoto]);
         message.channel.send(gifEmbed)
-        /*message.channel.send(idols[randomIdol].pictures[randomFoto])*/
+        
         .then(() => {
         
             message.channel.awaitMessages(filter, {max : 1, time: 15000, errors: ['time']}).then(collected => {

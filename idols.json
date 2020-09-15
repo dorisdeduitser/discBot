@@ -1628,6 +1628,69 @@
         "gender" : "male",
         "difficulty" : "medium",
         "pictures" : ["https://cdn.discordapp.com/attachments/754678423875616810/754683244703776768/unknown.png","https://cdn.discordapp.com/attachments/754678423875616810/754683107994763274/Treasure-Member-Profile-JungHwan.png"]
+    },
+    {
+        "name" : ["taeyeon"],
+        "group" : "girls generation",
+        "gender" : "female",
+        "difficulty" : "easy",
+        "pictures" : ["https://media.discordapp.net/attachments/754803943690993825/754804847676620900/264x264.png", "https://media.discordapp.net/attachments/754803943690993825/754805181425909810/unknown.png"]
+    },
+    {
+        "name" : ["sunny"],
+        "group" : "girls generation",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://media.discordapp.net/attachments/754803974695026779/754805294831501472/unknown.png", "https://media.discordapp.net/attachments/754803974695026779/754805410535571487/Sunny.png?width=677&height=677"]
+    },
+    {
+        "name" : ["tiffany"],
+        "group" : "girls generation",
+        "gender" : "female",
+        "difficulty" : "easy",
+        "pictures" : ["https://media.discordapp.net/attachments/754804002981412945/754806162318295162/unknown.png", "https://media.discordapp.net/attachments/754804002981412945/754806729304178750/unknown.png"]
+    },
+    {
+        "name" : ["hyoyeon", "hyo"],
+        "group" : "girls generation",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://media.discordapp.net/attachments/754804045918765107/754806901862170634/unknown.png", "https://media.discordapp.net/attachments/754804045918765107/754807116098961440/unknown.png"]
+    },
+    {
+        "name" : ["yuri"],
+        "group" : "girls generation",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://media.discordapp.net/attachments/754804114637979658/754807245534920874/unknown.png", "https://media.discordapp.net/attachments/754804114637979658/754808000077627424/unknown.png"]
+    },
+    {
+        "name" : ["sooyoung"],
+        "group" : "girls generation",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://media.discordapp.net/attachments/754804145042751609/754808658935677088/unknown.png", "https://media.discordapp.net/attachments/754804145042751609/754808899374284830/unknown.png"]
+    },
+    {
+        "name" : ["yoona"],
+        "group" : "girls generation",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://media.discordapp.net/attachments/754804182892150845/754809133596672190/unknown.png", "https://media.discordapp.net/attachments/754804182892150845/754809238219390990/unknown.png"]
+    },
+    {
+        "name" : ["seohyun"],
+        "group" : "girls generation",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://media.discordapp.net/attachments/754804218212122635/754809425394401380/unknown.png", "https://media.discordapp.net/attachments/754804218212122635/754809548354879649/unknown.png"]
+    },
+    {
+        "name" : ["jessica"],
+        "group" : "girls generation",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://media.discordapp.net/attachments/754804257307230310/754809915599618169/unknown.png", "https://media.discordapp.net/attachments/754804257307230310/754809975141826651/unknown.png"]
     }
 
 ]

@@ -1161,7 +1161,7 @@
         "pictures" : ["https://cdn.discordapp.com/attachments/754450896926015498/754451147124637736/unknown.png","https://cdn.discordapp.com/attachments/754450896926015498/754451061170897017/unknown.png"]
     },
     {
-        "name" : ["juhaknyeon"],
+        "name" : ["juhaknyeon","haknyeon"],
         "group" : "the boyz",
         "gender" : "male",
         "difficulty" : "medium",
@@ -1691,6 +1691,104 @@
         "gender" : "female",
         "difficulty" : "medium",
         "pictures" : ["https://media.discordapp.net/attachments/754804257307230310/754809915599618169/unknown.png", "https://media.discordapp.net/attachments/754804257307230310/754809975141826651/unknown.png"]
+    },
+    {
+        "name" : ["soojin"],
+        "group" : "weeekly",
+        "gender" : "female",
+        "difficulty" : "hard",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754806359760961576/754809839301165126/unknown.png", "https://cdn.discordapp.com/attachments/754806359760961576/754809653338308729/unknown.png"]
+    },
+    {
+        "name" : ["jiyoon"],
+        "group" : "weeekly",
+        "gender" : "female",
+        "difficulty" : "hard",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754806393931825283/754809499470004274/348ea3ec7dafc9fea92d4f9bc2d68302.png", "https://cdn.discordapp.com/attachments/754806393931825283/754807941542051840/02e6b18baf89899b70b2b7e51ee8f2a0.png"]
+    },
+    {
+        "name" : ["monday","jimin"],
+        "group" : "weeekly",
+        "gender" : "female",
+        "difficulty" : "hard",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754806432058179654/754809043482050600/unknown.png", "https://cdn.discordapp.com/attachments/754806432058179654/754808841849405470/a1ea6c7dc3ce10e92617287aa21e8cef.png"]
+    },
+    {
+        "name" : ["soeun"],
+        "group" : "weeekly",
+        "gender" : "female",
+        "difficulty" : "hard",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754806465725857862/754808726699114536/26963c64ff38648e426ce956ab1dde0a.png", "https://cdn.discordapp.com/attachments/754806465725857862/754808633778372678/unknown.png"]
+    },
+    {
+        "name" : ["jaehee"],
+        "group" : "weeekly",
+        "gender" : "female",
+        "difficulty" : "hard",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754806493831757864/754808930508734474/unknown.png", "https://cdn.discordapp.com/attachments/754806493831757864/754808346158301254/98b12e0aaa1f6817ae2732053aa2d357.png"]
+    },
+    {
+        "name" : ["jihan","jihyo"],
+        "group" : "weeekly",
+        "gender" : "female",
+        "difficulty" : "hard",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754806871331700796/754808108387270657/d4faf741d69699e782b46d924cee1f4a.png", "https://cdn.discordapp.com/attachments/754806871331700796/754807756069928980/3d8c8c48a2044b64940221de91afad40.png"]
+    },
+    {
+        "name" : ["zoa","hyewon"],
+        "group" : "weeekly",
+        "gender" : "female",
+        "difficulty" : "hard",
+        "pictures" : ["https://cdn.discordapp.com/attachments/754806897919656006/754807663593914529/unknown.png", "https://cdn.discordapp.com/attachments/754806897919656006/754807329681309758/unknown.png"]
+    },
+    {
+        "name" : ["seungsik"],
+        "group" : "victon",
+        "gender" : "male",
+        "difficulty" : "hard",
+        "pictures" : ["https://media.discordapp.net/attachments/754810374951403610/754811053447053423/unknown.png", "https://media.discordapp.net/attachments/754810374951403610/754811296930725918/unknown.png"]
+    },
+    {
+        "name" : ["seungwoo"],
+        "group" : "victon",
+        "gender" : "male",
+        "difficulty" : "easy",
+        "pictures" : ["https://media.discordapp.net/attachments/754810403401236480/754811463897710592/8795ec2194b7922e26e9d61b90d7d467.png", "https://media.discordapp.net/attachments/754810403401236480/754811502103625800/2680d0a0a9ce0e3b8ac168c3b95e64f8.png"]
+    },
+    {
+        "name" : ["chan"],
+        "group" : "victon",
+        "gender" : "male",
+        "difficulty" : "hard",
+        "pictures" : ["https://media.discordapp.net/attachments/754810430521868500/754811791032188928/unknown.png", "https://media.discordapp.net/attachments/754810430521868500/754812015792619632/unknown.png?width=646&height=677"]
+    },
+    {
+        "name" : ["sejun"],
+        "group" : "victon",
+        "gender" : "male",
+        "difficulty" : "hard",
+        "pictures" : ["https://media.discordapp.net/attachments/754810461928816660/754812185846480986/unknown.png", "https://media.discordapp.net/attachments/754810461928816660/754812496950591538/unknown.png?width=758&height=677"]
+    },
+    {
+        "name" : ["hanse"],
+        "group" : "victon",
+        "gender" : "male",
+        "difficulty" : "hard",
+        "pictures" : ["https://media.discordapp.net/attachments/754810485647343627/754813035360813158/unknown.png", "https://media.discordapp.net/attachments/754810485647343627/754813206937075743/unknown.png"]
+    },
+    {
+        "name" : ["byungchan"],
+        "group" : "victon",
+        "gender" : "male",
+        "difficulty" : "hard",
+        "pictures" : ["https://media.discordapp.net/attachments/754810525669392485/754813345185398865/unknown.png", "https://media.discordapp.net/attachments/754810525669392485/754813643044028536/unknown.png"]
+    },
+    {
+        "name" : ["subin"],
+        "group" : "victon",
+        "gender" : "male",
+        "difficulty" : "hard",
+        "pictures" : ["https://media.discordapp.net/attachments/754810631722631181/754814439269859378/unknown.png?width=689&height=677", "https://media.discordapp.net/attachments/754810631722631181/754814546874728579/90dce9103baf859e7ed755fbb8de02462d92cdeb.png"]
     }
 
 ]

@@ -253,7 +253,10 @@ client.on('message', message => {
     
    
         }else{
-        message.channel.send('incorrect parameters!'); return;}
+        message.channel.send('incorrect parameters!');
+        runningGame =false; 
+        return;
+        }
         }else
         idols = idols.filter(idol => idol.difficulty == 'easy');
 

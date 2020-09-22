@@ -1929,5 +1929,54 @@
         "gender" : "female",
         "difficulty" : "hard",
         "pictures" : ["https://media.discordapp.net/attachments/758029892637032508/758030839899619432/c2a4346edb66c58edb71a7fc92066c6da3e23881577bb314602b8297ec83f10e.png?width=677&height=677", "https://media.discordapp.net/attachments/758029892637032508/758030935428956200/unknown.png"]
+    },
+    {
+        "name" : ["dongheon"],
+        "group" : "verivery",
+        "gender" : "male",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/758024985129517057/758025927660667001/unknown.png","https://cdn.discordapp.com/attachments/758024985129517057/758025786480525522/unknown.png"]
+    },
+    {
+        "name" : ["hoyoung"],
+        "group" : "verivery",
+        "gender" : "male",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/758025034236297226/758026529266729161/unknown.png","https://cdn.discordapp.com/attachments/758025034236297226/758026125803913346/unknown.png"]
+    },
+    {
+        "name" : ["minchan"],
+        "group" : "verivery",
+        "gender" : "male",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/758025082579714248/758026957819478047/unknown.png","https://cdn.discordapp.com/attachments/758025082579714248/758026822519750846/unknown.png"]
+    },
+    {
+        "name" : ["gyehyeon"],
+        "group" : "verivery",
+        "gender" : "male",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/758025198304755797/758027371533172947/unknown.png","https://cdn.discordapp.com/attachments/758025198304755797/758027258488291408/unknown.png"]
+    },
+    {
+        "name" : ["yeonho"],
+        "group" : "verivery",
+        "gender" : "male",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/758025252797284465/758028652096258206/unknown.png","https://cdn.discordapp.com/attachments/758025252797284465/758027596226232340/unknown.png"]
+    },
+    {
+        "name" : ["yongseung"],
+        "group" : "verivery",
+        "gender" : "male",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/758025352487502025/758030965648916490/unknown.png","https://cdn.discordapp.com/attachments/758025352487502025/758030846224498778/VERIVERY-Profile-Younger-Brother-Of-VIXX-YongSeung.png"]
+    },
+    {
+        "name" : ["kangmin"],
+        "group" : "verivery",
+        "gender" : "male",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/758025464488001566/758032056922931210/image2.png","https://cdn.discordapp.com/attachments/758025464488001566/758032056684118016/image1.png","https://cdn.discordapp.com/attachments/758025464488001566/758032056377671910/image0.png","https://cdn.discordapp.com/attachments/758025464488001566/758031536627908800/image2.png","https://cdn.discordapp.com/attachments/758025464488001566/758031536372056246/image1.png","https://cdn.discordapp.com/attachments/758025464488001566/758031536120529077/image0.png"]
     }
 ]

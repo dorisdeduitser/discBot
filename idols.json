@@ -1845,6 +1845,55 @@
         "gender" : "female",
         "difficulty" : "medium",
         "pictures" : ["https://cdn.discordapp.com/attachments/757635988179910726/757639111770374194/unknown.png","https://cdn.discordapp.com/attachments/757635988179910726/757638888566292572/unknown.png"]
+    },
+    {
+        "name" : ["seoryoung"],
+        "group" : "gwsn",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://media.discordapp.net/attachments/758024918603530240/758025740540444882/unknown.png", "https://media.discordapp.net/attachments/758024918603530240/758025812925743305/GWSN-Seoryoung-COVER.png?width=677&height=677"]
+    },
+    {
+        "name" : ["miya"],
+        "group" : "gwsn",
+        "gender" : "female",
+        "difficulty" : "easy",
+        "pictures" : ["https://media.discordapp.net/attachments/758024944486580324/758025899412291674/unknown.png", "https://media.discordapp.net/attachments/758024944486580324/758025978738901034/unknown.png"]
+    },
+    {
+        "name" : ["seokyoung"],
+        "group" : "gwsn",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://media.discordapp.net/attachments/758025015672307958/758026100415660052/unknown.png", "https://media.discordapp.net/attachments/758025015672307958/758026127338897508/GWSN-Seokyoung-COVER.png?width=677&height=677"]
+    },
+    {
+        "name" : ["anne"],
+        "group" : "gwsn",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://media.discordapp.net/attachments/758025059599384616/758026206196006922/GWSN-Anne-COVER.png?width=677&height=677", "https://media.discordapp.net/attachments/758025059599384616/758026353659609128/unknown.png"]
+    },
+    {
+        "name" : ["minju"],
+        "group" : "gwsn",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://media.discordapp.net/attachments/758025104876896256/758026579635994714/unknown.png", "https://media.discordapp.net/attachments/758025104876896256/758026628726259742/unknown.png"]
+    },
+    {
+        "name" : ["soso"],
+        "group" : "gwsn",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://media.discordapp.net/attachments/758025135969271888/758026695142932690/GWSN-SoSo-Cover.png?width=677&height=677", "https://media.discordapp.net/attachments/758025135969271888/758026769428381857/unknown.png"]
+    },
+    {
+        "name" : ["lena"],
+        "group" : "gwsn",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://media.discordapp.net/attachments/758025321546252347/758026842350551120/GWSN-Lena-COVER.png?width=677&height=677", "https://media.discordapp.net/attachments/758025321546252347/758026966850076803/unknown.png"]
     }
 
 ]

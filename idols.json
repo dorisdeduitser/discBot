@@ -1980,5 +1980,33 @@
         "gender" : "male",
         "difficulty" : "medium",
         "pictures" : ["https://cdn.discordapp.com/attachments/758025464488001566/758032056922931210/image2.png","https://cdn.discordapp.com/attachments/758025464488001566/758032056684118016/image1.png","https://cdn.discordapp.com/attachments/758025464488001566/758032056377671910/image0.png","https://cdn.discordapp.com/attachments/758025464488001566/758031536627908800/image2.png","https://cdn.discordapp.com/attachments/758025464488001566/758031536372056246/image1.png","https://cdn.discordapp.com/attachments/758025464488001566/758031536120529077/image0.png"]
-    }
+    },
+    {
+        "name" : ["j.seph","taehyung"],
+        "group" : "kard",
+        "gender" : "male",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/758025443579265054/758025595744420121/unknown.png","https://cdn.discordapp.com/attachments/758025443579265054/758025678745632835/unknown.png"]
+        },
+        {
+        "name" : ["BM","matthew"],
+        "group" : "kard",
+        "gender" : "male",
+        "difficulty" : "easy",
+        "pictures" : ["https://cdn.discordapp.com/attachments/758025725478436916/758025925983207504/unknown.png","https://cdn.discordapp.com/attachments/758025725478436916/758026047991316551/unknown.png"]
+        },
+        {
+        "name" : ["somin"],
+        "group" : "kard",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/758026098670960761/758026295354458252/unknown.png","https://cdn.discordapp.com/attachments/758026098670960761/758026586242023455/unknown.png"]
+        },
+        {
+        "name" : ["jiwoo"],
+        "group" : "kard",
+        "gender" : "female",
+        "difficulty" : "medium",
+        "pictures" : ["https://cdn.discordapp.com/attachments/758026755096182924/758026769763794964/unknown.png","https://cdn.discordapp.com/attachments/758026755096182924/758026828060426352/avatars-dzz2ep0qprGQsEog-IlSHBQ-t500x500.png"]
+        }
 ]

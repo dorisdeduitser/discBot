@@ -1894,6 +1894,40 @@
         "gender" : "female",
         "difficulty" : "medium",
         "pictures" : ["https://media.discordapp.net/attachments/758025321546252347/758026842350551120/GWSN-Lena-COVER.png?width=677&height=677", "https://media.discordapp.net/attachments/758025321546252347/758026966850076803/unknown.png"]
+    },
+    {
+        "name" : ["lea", "léa"],
+        "group" : "secret number",
+        "gender" : "female",
+        "difficulty" : "hard",
+        "pictures" : ["https://media.discordapp.net/attachments/758029717394686063/758030254961983590/b48e0ef417aaa332728c125250d5ec315550c76b6b80143c01daf31c6c809503.png?width=677&height=677", "https://media.discordapp.net/attachments/758029717394686063/758030273219919932/SECRET-NUMBER-Debut-Allbum-member-profile-Lea.png?width=677&height=677"]
+    },
+    {
+        "name" : ["dita"],
+        "group" : "secret number",
+        "gender" : "female",
+        "difficulty" : "hard",
+        "pictures" : ["https://media.discordapp.net/attachments/758029743927853077/758030314609311774/1bcbaff0-aa1e-11ea-bf1b-7541df8028ff_image_hires_104856.png?width=677&height=677", "https://media.discordapp.net/attachments/758029743927853077/758030567768850494/unknown.png"]
+    },
+    {
+        "name" : ["jinny"],
+        "group" : "secret number",
+        "gender" : "female",
+        "difficulty" : "hard",
+        "pictures" : ["https://media.discordapp.net/attachments/758029788051931226/758030643446677594/2741cf19faf6e927eb620569f0750af3d12bc673e0a09a13880866260573fb30.png?width=677&height=677", "https://media.discordapp.net/attachments/758029788051931226/758030699407081564/unknown.png"]
+    },
+    {
+        "name" : ["soodam"],
+        "group" : "secret number",
+        "gender" : "female",
+        "difficulty" : "hard",
+        "pictures" : ["https://media.discordapp.net/attachments/758029811468861471/758030755862675596/ee728bfafddd25bd4a371765a0fe3f078d499e4a0c5413923debeb6832f402f7.png?width=677&height=677", "https://media.discordapp.net/attachments/758029811468861471/758030780143501322/SECRET-NUMBER-Debut-Allbum-member-profile-Soodam.png?width=677&height=677"]
+    },
+    {
+        "name" : ["denise"],
+        "group" : "secret number",
+        "gender" : "female",
+        "difficulty" : "hard",
+        "pictures" : ["https://media.discordapp.net/attachments/758029892637032508/758030839899619432/c2a4346edb66c58edb71a7fc92066c6da3e23881577bb314602b8297ec83f10e.png?width=677&height=677", "https://media.discordapp.net/attachments/758029892637032508/758030935428956200/unknown.png"]
     }
-
 ]
